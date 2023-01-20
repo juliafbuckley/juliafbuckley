@@ -1,6 +1,7 @@
 # Hey there, I'm Julia :wave:
 
 ## But you can call me Jules.
+![](https://komarev.com/ghpvc/?username=juliafbuckley&color=dc143c)
 I'm a full stack software engineer and '22 grad from the University of Notre Dame. I'm passionate about programming, sports, meaningful conversations, and learning new things. 
 
 :woman_technologist: I'm currently working as a jack-of-all-trades SWE @ Publicis Sapient in NYC, where I'm designing an efficient web scraping solution that can transform retail site data into a Salesforce Commerce Cloud site. I've also done web development with React and Java Spring Boot.
