@@ -3,7 +3,7 @@
 ## But you can call me Jules.
 ![](https://komarev.com/ghpvc/?username=juliafbuckley&color=61b272)
 
-I'm an NYC-based software engineer with interests in end-to-end development where I touch all areas of the stack. I'm passionate about programming, sports, meaningful conversations, and learning new things.
+I'm an NYC-based software engineer with an interest in end-to-end development where I touch all areas of the stack. I'm passionate about programming, sports, meaningful conversations, and learning new things.
 
 :woman_technologist: I'm currently working as a jack-of-all-trades SWE @ Publicis Sapient in NYC, where I'm designing an efficient web scraping solution that can transform retail site data into a Salesforce Commerce Cloud site. I've also done web development with React and Java Spring Boot.
 
